@@ -11,3 +11,6 @@ MDX is used for authoring pages, allowing for React [components](https://github.
 2. Pages follow standard markdown formatting.
 3. The title of a new section should be of type Heading 2 ie. `## title`
 4. Any Heading 2 (`##`) or Heading 3 (`###`) will be added to the table of contents. Please note, in the table of contents a H3 will be displayed as a child of the previous H2, so don't add a H3 unless it's a subfield of a H2.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwODg4ODExMjZdfQ==
+-->
